@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703268871491",
+    "project_id": "finaltrue-dea46",
+    "storage_bucket": "finaltrue-dea46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703268871491:android:53f4f71ba11d88d104e3f6",
+        "android_client_info": {
+          "package_name": "com.example.finaltrue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDb2KyYhTXGpJbb3oamkdw4UlJdW00VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

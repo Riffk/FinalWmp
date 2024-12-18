@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F5F5F5">
+
+    <TextView
+        android:id="@+id/subjectsList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Subjects"
+        android:textSize="24sp"
+        android:textColor="#333333"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"/>
+    <TextView
+        android:id="@+id/totalCredits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total Credits: 0"
+        android:textSize="18sp"
+        android:textColor="#666666"
+        android:layout_marginBottom="16dp"/>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>
